@@ -268,7 +268,7 @@ button {
     float: left;
     position: relative;
     background-image: url(../images/banner-bg.png);
-    height: 660px;
+    height: 580px;
     background-size: 100%;
 }
 .banner_img {
@@ -278,7 +278,7 @@ button {
     left: -72px;
     z-index: -2;
     background-image: url(../images/banner-img-2.png);
-    height: 660px;
+    height: 580px;
     background-size: 100%;
 }
 .banner_taital {
